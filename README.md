@@ -1,5 +1,5 @@
 # RetroConnexxion64_BBS
-BBS Status: Up - Ready
+BBS Status: Up - Ready<br>
 Reason: Internet Provider Outage - repaired
 
 C-Net 64 DS2 v2.6 on a real Commodore 64
