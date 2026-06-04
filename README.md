@@ -1,4 +1,4 @@
-# RetroConnexxion64_BBS
+# RetroConnexxion64
 BBS Status: Up - Ready<br>
 Reason: Internet Provider Outage - repaired
 
