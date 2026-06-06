@@ -1,6 +1,6 @@
 # RetroConnexxion64
-BBS Status: Up - Ready<br>
-Status Reason: ISP Outage - repaired<br>
+BBS Status: Down<br>
+Status Reason: Power interruptions due to storms<br>
 
 C-Net 64 DS2 v2.6 on a real Commodore 64<br>
 1200 Baud Commodore 1670 (3 DIP switch)<br>
