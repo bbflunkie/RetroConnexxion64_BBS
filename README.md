@@ -1,8 +1,8 @@
 # RetroConnexxion64
 BBS Status: Down<br>
-Status Reason: Power outage, adding UPS
-5:40pm Jun 10th 2026
-Last Status Reason: Rebooted
+Status Reason: Power outage, adding UPS<br>
+5:40pm Jun 10th 2026<br>
+Last Status Reason: Rebooted<br>
 7:17pm Jun 8th 2026<br>
 
 C-Net 64 DS2 v2.6 on a real Commodore 64<br>
