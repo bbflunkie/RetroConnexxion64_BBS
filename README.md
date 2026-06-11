@@ -2,6 +2,7 @@
 BBS Status: Down<br>
 Status Reason: Power outage, adding UPS<br>
 5:40pm Jun 10th 2026<br>
+Working on creating a few U/D libraries<br>
 Last Status Reason: Rebooted<br>
 7:17pm Jun 8th 2026<br>
 
